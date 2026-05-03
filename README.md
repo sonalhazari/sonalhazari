@@ -25,7 +25,7 @@
 
 📷 Dashboard Preview:
 
-![Dashboard](./SQL-PROJECTS/dashboard.png)
+![Dashboard](dashboard.png)
 
 👉 [View Project](https://github.com/sonalhazari/SQL-PROJECTS)
 
