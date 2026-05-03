@@ -23,7 +23,7 @@
 - Analyzed revenue by city and product category
 - Created a clean Excel dashboard for insights
 
-📷 Dashboard Preview:
+📷 Dashboard Preview: 
 
 ![Dashboard](dashboard.png)
 
